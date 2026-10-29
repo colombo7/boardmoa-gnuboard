@@ -1,0 +1,9 @@
+{
+  "version": "1.0.15",
+  "date": "2026-10-29",
+  "zip": "releases/appapi-gnu-1.0.15.zip",
+  "sha256": "99b1ad2d2a15c033481acd87246a516ae637f0923c2bcffae84c3601a795c534",
+  "signature": "ruSit/8wLTDYXiqfzfXiRd20FzvEhiam5xoShVOsk+kfTbFp0+zYRall3QRhlyeUTDy6HxmCBvgLim5WUbTaPO4jtZkcdjCZjnWBdYTTVLrUlrzmk/WBKUHCB6SzupwjZ6lHu1auOxT+b04YP2xvd5wBBnniom9oW1NO98Hwtfkaaag0AhuP25AZeJifPXlHd6UAx4IWp5BbOoppSxgEG3Jpu59Gl9xtWyHePRLYvSBGx4vxXB6PGlJ+3WiQ8y8sFNEklqgKeBLPq41v9JqUj/CqUnCU/g1IRlBimd5x/7g4OwCdxqB3VPGWqnUFRjsuDEXgpT0QNuxojFO2n/FfMHS2iAfI1QIzqlM7HhZqk0KvvZRk9cfRA2GGSLDQrvmqgslRH/FJp0lycOKc1+FVoudc2YfHN2LdiiXSs4YdliJC4dcdAz8QhVgNwNeQhH5HGhkc14yVjC6dZQfchLd9E2NXd1UU9ZdM9OkcOjtKEny/Gchcs394AavyG5O2nW3+",
+  "min_php": "7.0",
+  "notes": "첫 공개(시험판): 그누보드5 게시판을 게시판모아 앱에서 읽고 쓰기"
+}
