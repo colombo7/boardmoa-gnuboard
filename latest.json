@@ -1,9 +1,9 @@
 {
-  "version": "1.0.17",
+  "version": "1.0.18",
   "date": "2026-10-30",
-  "zip": "releases/appapi-gnu-1.0.17.zip",
-  "sha256": "72efbd7a6de8efc61d30695e65ef5ef1dde61e9282c76484bc3d0b7bfd75ea45",
-  "signature": "ln0yaxKvNmZbO6O8bAoq84KonFY6Fli5gQqefq1Aflx2KLBZ+Vp95XO30BFOxAQYGVlp8cj7BdHai4CJ6YQnuOGwLNtEAszWqHcmKnocHnszNHmWCqpDYEV4MkV3VslznynsoDesqmNxsQTDdcu/HL90ppmqKMJXW3KN3MDrXgwADeORyRfsRPiickXxnII4mUJmTxu3SfiIUTf0Wu5IwlEhzzsiKuSvZewmY3Ts7LJD4U65RiJ3Ud5fTEYK5EJfNYchGGDwcEbcQbZ2ebBpbICiru/1RGaep9l/CFKNH1b5OBJyXY2f9WBVakIrAM/0teF8FwUww8ujFyfEOywPHD9kPQnKBDVWwua1HupnPRo4qD8PTV3BSiy1qHGTYuvPKzlKCwdgyyELH5ikEtKFxLtTFy1rWGyGvJGDxtDmqJczofU/20IS3QMNSnRJDcx9WOtXeGfld9dGidn//Z6jUHL3oe/fOWIgLvWmkbqblwApITHpN6Nwc3Kjt5+CEyiO",
+  "zip": "releases/appapi-gnu-1.0.18.zip",
+  "sha256": "01d27da2e3cbd62a9065835ed4737b4a25c000913ec709a76d351cf48e2355ab",
+  "signature": "jTASk1yBZcBF3AB97uyy6gui9JTniU836O1EkZ53+yWeIau1Ba/HQH09KarnwO/BFw50023IHabdNpYLs8u5DsmxTswgpOAuz65re+fXBkgCgRvUR4hmYCSDElKI+oL4R0V4fbm26hHYk92zn2LpR1YD/Za2ks6a+Siw6mzn2FsQRmashf7LtIKw0E7tZJVDh3Zme1yESmYXGclmRgG3MEePYxqLeH7N7tdPPbbyWiaAcnBW1gKKw/i4p1oJj5ZCoTRdxbqN2iyUhtkbjquzYdK52/+CqRzRlPYIbBxrn+GuEYLeFpYatzNNDLd9FYRsTbcivZRoVFkbGsI95/MRO7dL/CMZ6WPK+nOtgIv3JdmOkejGj70GpJS9mkdOEwttRnnz6bxAPK3reELfvM8Aby4n9dWEoT4nzrmMRN3U4x0qYfw3JbQYDLU7Mh+lGEfjX2PhVGmym7/C7GdB/UeDT9MaHqumVhyjz621Tn54DwZFx5KW+kIkT1tUHRyth/uf",
   "min_php": "7.0",
-  "notes": "그림 글자 자동등록방지를 앱에서(새 앱), 답변 글 쓰기, 관련 링크 쓰기·보이기, 서명, 소셜 로그인 회원 안내"
+  "notes": "1.0.18: 보안 강화(글읽기 포인트 확인, 로그인·캡챠 시도 제한, 회원 아이디 노출 줄임), 파일 첨부, 비밀번호로 연 비밀글에 댓글"
 }
