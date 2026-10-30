@@ -1,9 +1,9 @@
 {
-  "version": "1.0.29",
+  "version": "1.0.30",
   "date": "2026-10-31",
-  "zip": "releases/appapi-gnu-1.0.29.zip",
-  "sha256": "ef320e3770278caa81210722bc2a416a194cf64038822a11f6ed0900ba479464",
-  "signature": "e1Iq+nYXVplQ48H1JuhGJqSNIIp1xNsOpePkwYIz8stzbBeHeUIFycvuz82Jyyi7DVbioWWzfW83MOQtMC885IQYJC89A6mXNEN0Fgs/s6s4tbI5xEcwPF2AzFmycvabLUIe01aS++FL+Qra24NEhX5/6nNkmdJbmbOlM7SlWIjDGbmVfIQDoYk42bbOfR37ze5uv4qP6o73VhvKJLy/Zdgfj87+IyP0sQLXmLX8ndDrnua57r1yxqMGR4vHrY77KEHVt7SxIqWb4YDzcVsyCaX482GCB/GWMYE+lQAA6aZDt6d6uNI5avRn5tweNSq7JzS0C8/+uCe2NfG6Py2UFBHSwopPt9mq+i+qDrhz6K8/MO9YDf3WJLqf8z0lxMJt7HS9MfcYBdaaSuR8VyasbOaVEX8flXe3uq41lipxxWLVfhEwmp8otvhU47kLxJ4YohPqRDpsy+hHvOj7SJzWxZNGzxZByhMTe0hNiqZRXacORcbauo69ND0539T/ymuM",
+  "zip": "releases/appapi-gnu-1.0.30.zip",
+  "sha256": "30b38a12419724dcc2da633124bbb3fd54d2ee8c887e0294b3fe6ed3caead2ab",
+  "signature": "BV63iaaorD4JSndzeFId4Og5YgOOxaUarKJS+AQeAetEZXsya/7myUz1hVh5BTipm6WIDYHgtCGAGyGMxWKjUagXGhmhQJJPvGMJufkFf3ke2TPOkfST5jxHQDmqrdwKkCAx8B+n0rc2yx+Bk1T6v79JdNP/hjkwDddOLAZyOtU9EcmKze2cSRLioQvsxqgsamIlHFgvqg7xx8FQG1SSPOLn3KjjyMVYlxKBwQK1w0lnxWlYNRyMy+EwkSe79onmwPZw/N5uGwQ21xpDuwEv3b/GrHAa1q0zA7fKqHDnQ1+EoU/PV1nteeXwca8kVpv62zeASNod04maLxWN3Khc2REs2WCXBZ/8/ORSX9xQcEuMaWt2hy/7xH+udsnZxUUlhsWarhFerNpun6ahd90yLfzcnrL14Ux7OH9+RUPDhrZLoLNXDZzmduC8eOAvAOri6nVxZtKbAxd+YE5gtyHV0P9a6vA3HmrZZeoLZ4PdmrNyPgTb9OpGjX1jshGzqfEc",
   "min_php": "7.0",
-  "notes": "번호만 올림(그누보드7 플러그인과 같은 번호)"
+  "notes": "플러그인 관리 화면 아이콘(XE3·그누보드7)"
 }
