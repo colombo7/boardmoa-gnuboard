@@ -1,9 +1,9 @@
 {
-  "version": "1.0.25",
+  "version": "1.0.26",
   "date": "2026-10-31",
-  "zip": "releases/appapi-gnu-1.0.25.zip",
-  "sha256": "fdca2351ab0376511c8a5be38df0b6f2897899d37f15a4a54d54b0fe59697302",
-  "signature": "H8LkNWv2rfls0Apy4eM+cAo/zZuFar+zeBDeSIrvQB2S5hlNM1SRmnozFCB/91NzO8huLe0Lze+ZBiXjwOnSurGQOMZ47txk7DlruzkmNNEXDhjuEg4MKEwF+By1UnQE3yfED3H6dvWeVQmPduIe0XvfJOPqGoaj0PTKdvnpLQyKlSO7NmzQbaUi0MzaXCXy0VhlDg2Xn4byLgvuxUBayzkSBLzIR244OwOov4fRjga/Gxz7Ekp7xsI1QCWzABUDmRz5iw27ICyTLtuEw+ZChRFKe8gVkvSj8nK+KxmSjulG3ofgqEoyGtlZCqtpFr8BYu1XCdf8qIIYV14e9OdZ33KTWEIAUiHL+w7cdxZmS9hRuJz1ds2Ay/yDF6q/40tx780YNUqU3tDafWBpx+S3qYtN62uCP9BcNg3Tx+sfpfvYlKPNvSTQSlXHFkJVhGkUgUe8ztlOCFTTZdBeNkX4J1r7dTUK21juWE/GBJGaclpYTg+yKFWld+3uDSvUkYdi",
+  "zip": "releases/appapi-gnu-1.0.26.zip",
+  "sha256": "4403579ea39aa1036895b400e56b1eba653c4580c7f03cdd6405ebcdecee93a3",
+  "signature": "dvE72hqfs1+ea05EJ35ddLa1fPgCtfPt7rMCuMOIMTVCswUI8Vcg2Ic+Ji5Cf5WVrKa3g842tQJ4el0mE7G7k23d5qow+qQPrGuqCcVDuFx0J8Oz6t/XLuv5qqxH5M3XgSTTKC22BWSV9UN3Bh/RLvvHOqemM9DqD+OKHQ7nkfniDqhO3fwO48D2Jj8pghNALIXvpAICIWKEmMATMbH0qjEUORIzuOXUrPMQ4G/kBDfNuzky9UixPCiKbW04nc8Ljecx4T08jc3/XlaQ2TOZFI6JvvSbLLjj/FYq9zA157E70wxVh9TVqP4U6LikTAxStgVQjPnerpVOiLhOEkz0kXrtZeh98CgDBF670dOhZ2r0WiQgfJZxLyzl6F6fVxe55OZ46uBRqLqf/L/heRLX0hGvVCp796vhTOoyhHLMHQIYC5XQKeO1zXdXmMuIMz0oXo25Vt6YOJvOKeg/PfrBXxMc0N9XODPqUi/eOlCkwtmxwSAuXaHGLsWCsgCi037i",
   "min_php": "7.0",
-  "notes": "번호만 올림(그누보드7 플러그인 첫 공개와 같은 번호)"
+  "notes": "번호만 올림(그누보드7 플러그인과 같은 번호)"
 }
