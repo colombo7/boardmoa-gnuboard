@@ -1,9 +1,9 @@
 {
-  "version": "1.0.21",
+  "version": "1.0.22",
   "date": "2026-10-30",
-  "zip": "releases/appapi-gnu-1.0.21.zip",
-  "sha256": "dfd6783595e6210776b39d1f471454a1c6e32597cf3af24bd19f5a25fc524863",
-  "signature": "fR7z1ooLDm62ZYinfN1SqYbF4B0fTlCHW1rzuKHqSk5p+vdM1J5UoY9c8OuVMTmdzE3ckNHzkGPvuFTbtLUhHiowy7DWRAV92XbVz26kHpVl4sQs+Ipqx0cKPleVOA2EAaQKB2LVcNe32a8HmmX6CiJLMRv+JK41iEDzOwk5y2CG1NidiDOLYtVabYaR697OuI8XAQx1kmqhrEjdutlIvUZZHigwLGCaAFxdVJm92Vnj/9j7oBnC5taP9xHba6wr2qtmRMKlHl+99NvbwYrXoyszrjpvE6UxJoahqF5yAdfbOFVR8swbzI5mDeDF8Xc/jzjPp2xMQwVCO+Z+o8Y7hZxDQA/luy1N6olWVgabGSe5NQdcx59r/JN0TPeE4dI+SsTctqWSxuUVEVW72JEccxm+apXWZaxXdctfM2uZaKVcvscfjh/IxV28TPyuPWdpEETP5OE4RpN3u7kNE9yXptd3y7au5rAkOcff9f4VQfH63px6bkJSln1EtmvhlHLY",
+  "zip": "releases/appapi-gnu-1.0.22.zip",
+  "sha256": "ed694b875a9a8a6b9f4f9d5d306f6a0d4bba3577448fa99159a68fa48f4cdea1",
+  "signature": "eQKpsmYOf9GAEmyhV6gaOHaUg80j119dKcNiLxOQa7DaSrWXyQwFkXrtGNkfGVa9m5zW8GhPIln04vEse1H8LEr2aEGTI34oXYJ5alVAulqejiGyp5+2IB/NbYGI0wyErmLvJXBcs4LzUmwfwZvreLG0sVZ3sY9hlrWbs2+zctJTLwP4eMbdtSI93i4khEWxvmhlz+Ck1RfBHuyJZ/L1BSDC3VZ6i11fKpX1R187Q/aEo/5pN2xUwAyOtKZS3p5tkZh0NRcUJ9HEcIlHrVXGyGFGTpDrGBzLFqpM41G9ktSuAWkeYcOt2NSN5Rnr11Nc+YK99KAK39tkC4ggy02ThVgoeRyMSEFtZ5rlWRPon8pKa+ac85Gbkxnxd+YwC492646N6/yH+4FJPbTWyPktoRWySVvjmuMJQlnZuiRzvgUagQ1HIbfCRnzfR6Rt5SpSCs1Cq1pczi7kRm/XgGDwLQlVD1jhv1Nj6Boaq+p8HeCLranRan3oAl4CNjhBzRU6",
   "min_php": "7.0",
-  "notes": "내 정보 수정에서 회원아이콘·이미지 이름·이미지 마크·서명·자기소개 등 웹과 같은 항목 수정(앱 2.0.7부터)"
+  "notes": "그누보드 내 정보 수정의 자동 입력 방지는 지원하는 앱(2.0.7~)에만 요구"
 }
