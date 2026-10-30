@@ -1,16 +1,16 @@
-# 게시판모아(BoardMoa) 앱 연동 — 그누보드 모듈
+# 게시판모아(BoardMoa) 앱 연동 — 그누보드 플러그인
 
-스마트폰 게시판 앱 **게시판모아**가 그누보드5 사이트의 게시판을 읽고 쓸 수 있게 하는 모듈입니다.
+스마트폰 게시판 앱 **게시판모아**가 그누보드5 사이트의 게시판을 읽고 쓸 수 있게 하는 플러그인입니다.
 
 - 앱 받기: [iPhone·iPad (App Store)](https://apps.apple.com/app/id6826114071) · [Android (Google Play)](https://play.google.com/store/apps/details?id=com.easyapplabs.boardmoa)
-- 최신 버전: **1.0.23 (시험판)** · 내려받기: [releases/appapi-gnu-1.0.23.zip](releases/appapi-gnu-1.0.23.zip) · [latest.json](latest.json)
+- 최신 버전: **1.0.24 (시험판)** · 내려받기: [releases/appapi-gnu-1.0.24.zip](releases/appapi-gnu-1.0.24.zip) · [latest.json](latest.json)
 - 설치한 뒤에는 관리 화면(관리자 → 환경설정 → 게시판모아 앱)의 [업데이트 확인]으로 새 버전을 받습니다.
 - XE 1.11·Rhymix 사이트용 모듈은 [boardmoa-appapi](https://github.com/colombo7/boardmoa-appapi), XE3 는 [boardmoa-appapi-xe3](https://github.com/colombo7/boardmoa-appapi-xe3), WordPress 는 [boardmoa-wordpress](https://github.com/colombo7/boardmoa-wordpress) 에 있습니다.
 
 
 > **시험판입니다.** 그누보드 연동은 아직 시험 중입니다.
 
-그누보드5 사이트의 게시판을 스마트폰 앱 '게시판모아'에서 보고 쓸 수 있게 하는 모듈입니다.
+그누보드5 사이트의 게시판을 스마트폰 앱 '게시판모아'에서 보고 쓸 수 있게 하는 플러그인입니다.
 누가 무엇을 볼 수 있는지는 그누보드의 게시판 권한(목록·읽기·쓰기·댓글 레벨, 그룹 접근, 비밀글, 본인확인, 포인트)과 같습니다.
 
 | 기능 | 앱에서 |
@@ -30,11 +30,11 @@ XE 1.11·Rhymix 사이트는 [boardmoa-appapi](https://github.com/colombo7/board
 - 영카트(쇼핑몰)를 함께 쓰는 사이트도 게시판은 같게 됩니다.
 
 ## 설치 (처음 한 번)
-그누보드에는 모듈을 올리는 화면이 없어서 FTP(또는 호스팅의 파일 관리자)로 올립니다.
+그누보드에는 플러그인을 올리는 화면이 없어서 FTP(또는 호스팅의 파일 관리자)로 올립니다.
 
 1. `appapi-gnu-<버전>.zip` 을 받아 압축을 풉니다. 그누보드의 다른 플러그인(소셜 로그인 등)과 같은 꼴로 폴더가 두 개 있습니다.
    ```
-   plugin/appapi/              ← 모듈 본체
+   plugin/appapi/              ← 플러그인 본체
    extend/appapi.extend.php    ← 관리자 메뉴에 '게시판모아 앱' 넣기 (선택)
    ```
 2. 두 폴더를 그누보드가 설치된 폴더(`common.php` 가 있는 곳)에 그대로 올립니다. 이미 있는 `plugin`·`extend` 폴더에는 파일이 더해지기만 합니다.
