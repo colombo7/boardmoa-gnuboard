@@ -1,9 +1,9 @@
 {
-  "version": "1.0.20",
+  "version": "1.0.21",
   "date": "2026-10-30",
-  "zip": "releases/appapi-gnu-1.0.20.zip",
-  "sha256": "ebc9016b045636030c1166da69d5f6bd6b49f379f8bad890569b00b4edc6aac8",
-  "signature": "u0sQ6GFik/dXBlvvqgRSSdYdlqh4sVtG3xeiH5FVx+NGJmn5aZR2xtzBc6fIwZkfVxnoaaADjmDg6pgG7ib3D714ZcHmuRbeammAt+t1+KbwGkYeKK4nrmRNxhrW56enGsg0wLX611LUQge6dCHX784zox2SchO2TjHnTHXF4kcWloAKA6DVfW2z5oPasCgVEy4P4Uxt0BZtNQK53TGyz4fLEAzF3srgDsydZH7lym00TG8tBBJz98jsro8y2W8dusZOFYjGkvdD+UeQuAHw4N1PYeZv//TyvZcccCduQs8mLuwffz1nkhqB/wfJZBzuBBY7TNYROUl5xT1kLVXMr3Yk5xGwhAuE4oY6Ynx8bhwki1ZoHlVItrD+BW/5GHwpFZgyLNFfLECn8IQrXXh+bT1Nxl0i3us15sObJ5Hbk/pzJ/aJNM3baO1QxvP/b8+V/KXTAezG4ATUPPqM1JLOfO/m/hbGWbImOXkaWzU7+hxh2vAXfiv/euOJ+svXv8xU",
+  "zip": "releases/appapi-gnu-1.0.21.zip",
+  "sha256": "dfd6783595e6210776b39d1f471454a1c6e32597cf3af24bd19f5a25fc524863",
+  "signature": "fR7z1ooLDm62ZYinfN1SqYbF4B0fTlCHW1rzuKHqSk5p+vdM1J5UoY9c8OuVMTmdzE3ckNHzkGPvuFTbtLUhHiowy7DWRAV92XbVz26kHpVl4sQs+Ipqx0cKPleVOA2EAaQKB2LVcNe32a8HmmX6CiJLMRv+JK41iEDzOwk5y2CG1NidiDOLYtVabYaR697OuI8XAQx1kmqhrEjdutlIvUZZHigwLGCaAFxdVJm92Vnj/9j7oBnC5taP9xHba6wr2qtmRMKlHl+99NvbwYrXoyszrjpvE6UxJoahqF5yAdfbOFVR8swbzI5mDeDF8Xc/jzjPp2xMQwVCO+Z+o8Y7hZxDQA/luy1N6olWVgabGSe5NQdcx59r/JN0TPeE4dI+SsTctqWSxuUVEVW72JEccxm+apXWZaxXdctfM2uZaKVcvscfjh/IxV28TPyuPWdpEETP5OE4RpN3u7kNE9yXptd3y7au5rAkOcff9f4VQfH63px6bkJSln1EtmvhlHLY",
   "min_php": "7.0",
-  "notes": "이름(닉네임) 표시(앱 2.0.7부터), 그누보드 내 정보 수정"
+  "notes": "내 정보 수정에서 회원아이콘·이미지 이름·이미지 마크·서명·자기소개 등 웹과 같은 항목 수정(앱 2.0.7부터)"
 }
