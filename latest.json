@@ -1,9 +1,9 @@
 {
-  "version": "1.0.27",
+  "version": "1.0.28",
   "date": "2026-10-31",
-  "zip": "releases/appapi-gnu-1.0.27.zip",
-  "sha256": "8602d5213986ab3a9eb2d415639d07d2d61e6f7df07b6c768f01169859c9a22b",
-  "signature": "DD8qrO4sKTOFwojAdbkG9ttgat2U/Ssnr+C0GipJW1iLTAbRLdVMGpzTMjPz3g+JY2K4dgmyO08C6O2yNfQ7O3VhMDDYKvIk/aIYs7H8+LJPgI/o0GD/xeEJbhEjwrFiV3tIx3DLKwtpYyEqW9neZQMwsRwR8izaUrD59clrwbtdYy4R//LZ0DS1d4y0B+KD2+SiQyoINDU075cIU0rnC960cy/DyKH0gVCAUniHyB4E6U/IIuUJPvnKjq51R7HAMebF6PKPtjqTjLi7qSsPQV539veL2UjwiTrlDqmh9t1ssSM+SCTl+wSz6GC+HV8X/IYUvVqwBjiDK6+tSVAz+qoY1OiZ0B3uWYzVkzrxJ+rB40x9GJ5hYm0sPLGWIsNjbYh8DlPRkRN4I9126JGONxaVFVkf0FLl15wTGn8BmC8b0wpioXFNO0H7+toAGLZDAgOQoXkkxhFK4Hdi7jlPCD8+MyFN6ZUEJlt+Zoptx/DjxKW1w5Uc9sP1ITpWpBjz",
+  "zip": "releases/appapi-gnu-1.0.28.zip",
+  "sha256": "ba9247c21daebc393aa411bae8a4fb7b6c96082c335550362498f478617979ea",
+  "signature": "sr4KYICZZxqH0JJ+BtdVeyLRVKXeMVOffEYbVpo7S6DGCCpAZL848ExgHaz0uxnTNDXQi1qP7hAegHwYzQMPcLbrYdUUUh5a+N2kKd+sn0FsR+tRyTfKIK/C27WMfcqFT1ml2+O+AcsPzTiIkDkk/qImMFMgucLzoIi3JCBO5oeJJGHXufN2+NvcOvCGlKwyD0rqU5B/vxoQmgVE38w+FaEc4M/PIugl0x+y3RpD9xpfB5EdWOkI1vL1petCpUpxPwJGGztN0eXNIYV/nbJ32QCN1txac7FUvVWM9oi6dInZqtdhwtD4ixn6JO5258AfZT933zR2qqf7bulo3tFYa5oJbQJjZmV/LeXY8IHWw8YXfh7HMK1A+1EHtDv5kFVYnxd5m5D7olj8qgA1zGWBeiOxlCT/JnGvvlUErxiJRVqLzvPJLjOxIlgqc1u2wxqtIJ0C5MnAqP0E4Kl18qVXNWEvw4HXXmrPyGVp+5bihN6hnwPqkGo4HNEGVwkPhEG4",
   "min_php": "7.0",
-  "notes": "번호만 올림(그누보드7 플러그인과 같은 번호)"
+  "notes": "앱에서 회원가입"
 }
