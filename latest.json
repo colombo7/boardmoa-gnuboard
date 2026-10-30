@@ -1,9 +1,9 @@
 {
-  "version": "1.0.19",
+  "version": "1.0.20",
   "date": "2026-10-30",
-  "zip": "releases/appapi-gnu-1.0.19.zip",
-  "sha256": "6c30ef4ba7b346f6fa94cffa44ce9dffd1d9bf92c6c7a5be2e3dbfbc3b469c31",
-  "signature": "DTvgZbg0oIZY3VLOEpLI5tDXLtdkPlToDa47A3L4UxVOFW8L1vDJnKOROBM3ZrbqDwmOtu59ZFLj7XOYeMXa4leroCCrzOzWAbnhyA0P69JMzHYIoOP5EDqhbGu2/taCnL9bILupkcYT2isufiWfixbV8+Vt0Ec7gFyIOmb6UTY3sdQoqo3VnkmkJsFmcEdY7CBPessfjrTGfLR6j+eEUjZSHPjwXmjHJ1IV8vqBRX+GyVSl0szGfNIVY6RFhCQHS1O+oUtjOOsRQqbDePEH08qrS+s/QBSFmyLp+LcFI+Qt+T/A/S55ZU/E9NLPgnvi7R7hEJXvJ+GYxAYi8EumCVD3FfBMjmEEe9ZwZ03REHV0t3c0rTQzskY/49r6/mvpwZg6C7ap0ru5iqCemdVlLw1YZNbMQhtCVarJogrEYDB4qM90nfCDnPqMUsf8pBhcIBlB1a/mBMjQRaAFTvTO3TfjD2DML6w5I61Xd0WSfQ5QisRJ52FQvs7grdB+dOnB",
+  "zip": "releases/appapi-gnu-1.0.20.zip",
+  "sha256": "ebc9016b045636030c1166da69d5f6bd6b49f379f8bad890569b00b4edc6aac8",
+  "signature": "u0sQ6GFik/dXBlvvqgRSSdYdlqh4sVtG3xeiH5FVx+NGJmn5aZR2xtzBc6fIwZkfVxnoaaADjmDg6pgG7ib3D714ZcHmuRbeammAt+t1+KbwGkYeKK4nrmRNxhrW56enGsg0wLX611LUQge6dCHX784zox2SchO2TjHnTHXF4kcWloAKA6DVfW2z5oPasCgVEy4P4Uxt0BZtNQK53TGyz4fLEAzF3srgDsydZH7lym00TG8tBBJz98jsro8y2W8dusZOFYjGkvdD+UeQuAHw4N1PYeZv//TyvZcccCduQs8mLuwffz1nkhqB/wfJZBzuBBY7TNYROUl5xT1kLVXMr3Yk5xGwhAuE4oY6Ynx8bhwki1ZoHlVItrD+BW/5GHwpFZgyLNFfLECn8IQrXXh+bT1Nxl0i3us15sObJ5Hbk/pzJ/aJNM3baO1QxvP/b8+V/KXTAezG4ATUPPqM1JLOfO/m/hbGWbImOXkaWzU7+hxh2vAXfiv/euOJ+svXv8xU",
   "min_php": "7.0",
-  "notes": "로그인한 기기 목록·로그아웃(앱 2.0.6부터), 보안 보강"
+  "notes": "이름(닉네임) 표시(앱 2.0.7부터), 그누보드 내 정보 수정"
 }
