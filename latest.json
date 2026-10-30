@@ -1,9 +1,9 @@
 {
-  "version": "1.0.18",
+  "version": "1.0.19",
   "date": "2026-10-30",
-  "zip": "releases/appapi-gnu-1.0.18.zip",
-  "sha256": "01d27da2e3cbd62a9065835ed4737b4a25c000913ec709a76d351cf48e2355ab",
-  "signature": "jTASk1yBZcBF3AB97uyy6gui9JTniU836O1EkZ53+yWeIau1Ba/HQH09KarnwO/BFw50023IHabdNpYLs8u5DsmxTswgpOAuz65re+fXBkgCgRvUR4hmYCSDElKI+oL4R0V4fbm26hHYk92zn2LpR1YD/Za2ks6a+Siw6mzn2FsQRmashf7LtIKw0E7tZJVDh3Zme1yESmYXGclmRgG3MEePYxqLeH7N7tdPPbbyWiaAcnBW1gKKw/i4p1oJj5ZCoTRdxbqN2iyUhtkbjquzYdK52/+CqRzRlPYIbBxrn+GuEYLeFpYatzNNDLd9FYRsTbcivZRoVFkbGsI95/MRO7dL/CMZ6WPK+nOtgIv3JdmOkejGj70GpJS9mkdOEwttRnnz6bxAPK3reELfvM8Aby4n9dWEoT4nzrmMRN3U4x0qYfw3JbQYDLU7Mh+lGEfjX2PhVGmym7/C7GdB/UeDT9MaHqumVhyjz621Tn54DwZFx5KW+kIkT1tUHRyth/uf",
+  "zip": "releases/appapi-gnu-1.0.19.zip",
+  "sha256": "6c30ef4ba7b346f6fa94cffa44ce9dffd1d9bf92c6c7a5be2e3dbfbc3b469c31",
+  "signature": "DTvgZbg0oIZY3VLOEpLI5tDXLtdkPlToDa47A3L4UxVOFW8L1vDJnKOROBM3ZrbqDwmOtu59ZFLj7XOYeMXa4leroCCrzOzWAbnhyA0P69JMzHYIoOP5EDqhbGu2/taCnL9bILupkcYT2isufiWfixbV8+Vt0Ec7gFyIOmb6UTY3sdQoqo3VnkmkJsFmcEdY7CBPessfjrTGfLR6j+eEUjZSHPjwXmjHJ1IV8vqBRX+GyVSl0szGfNIVY6RFhCQHS1O+oUtjOOsRQqbDePEH08qrS+s/QBSFmyLp+LcFI+Qt+T/A/S55ZU/E9NLPgnvi7R7hEJXvJ+GYxAYi8EumCVD3FfBMjmEEe9ZwZ03REHV0t3c0rTQzskY/49r6/mvpwZg6C7ap0ru5iqCemdVlLw1YZNbMQhtCVarJogrEYDB4qM90nfCDnPqMUsf8pBhcIBlB1a/mBMjQRaAFTvTO3TfjD2DML6w5I61Xd0WSfQ5QisRJ52FQvs7grdB+dOnB",
   "min_php": "7.0",
-  "notes": "1.0.18: 보안 강화(글읽기 포인트 확인, 로그인·캡챠 시도 제한, 회원 아이디 노출 줄임), 파일 첨부, 비밀번호로 연 비밀글에 댓글"
+  "notes": "로그인한 기기 목록·로그아웃(앱 2.0.6부터), 보안 보강"
 }
